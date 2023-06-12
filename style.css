@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Aoboshi+One&display=swap');
+
+body{
+    font-family: 'Aoboshi One', serif;
+    background-color: #ae8c5c;
+}
+
+.card{
+    width:fit-content;
+    border: 1px solid black;
+    text-align: center;
+    margin: 25% auto;
+    padding:5px;
+   
+    color: white;
+    font-size: 28px;
+}
